@@ -6,23 +6,23 @@ A trilingual Senior Software Engineer with over a decade of experience building 
 
 My core technical arsenal centers on robust backend ecosystem development and next-generation automation, driving efficiency through advanced programming and cloud native deployments:
 
-Core Languages & Ecosystems: Java, C#, Python, JavaScript and TypeScript, SQL, noSQL.
+- **Core Languages & Ecosystems:** Java, C#, Python, JavaScript and TypeScript, SQL, noSQL.
 
-AI & Multi-Agent Architecture: Engineering autonomous workflows using LangGraph and localized Gemini integrations.
+- **AI & Multi-Agent Architecture:** Engineering autonomous workflows using LangGraph and localized Gemini integrations.
 
-Cloud, Devops & Containerization: Docker, Google Cloud, and GitHub CI/CD automation.
+- **Cloud, Devops & Containerization:** Docker, Google Cloud, and GitHub CI/CD automation.
 
-Data Integration & Messaging: Complex API architectures, Kafka, Rabbit MQ, WhatsApp Business gateway automation, and secure webhook infrastructure.
+- **Data Integration & Messaging:** Complex API architectures, Kafka, Rabbit MQ, WhatsApp Business gateway automation, and secure webhook infrastructure.
 
-Notorious Achievements:
+### Notorious Achievements:
 
-ThoughtStock: Founded an innovative startup ecosystem, translating conceptual vision into highly scalable software assets, backed by precise data modeling and advanced UI/UX system design.
+- **ThoughtStock:** Founded an innovative startup ecosystem, translating conceptual vision into highly scalable software assets, backed by precise data modeling and advanced UI/UX system design.
 
-The "Titan" Gateway: Designed and deployed a proprietary WhatsApp management gateway from scratch, automating real-time customer communications directly into unified data pipelines (Google Sheets/Databases) using optimized Python webhook logic.
+- **The "Titan" Gateway:** Designed and deployed a proprietary WhatsApp management gateway from scratch, automating real-time customer communications directly into unified data pipelines (Google Sheets/Databases) using optimized Python webhook logic.
 
-Project "MapsApp": Engineered a highly efficient route optimization web application, leveraging Docker containerization and continuous delivery pipelines via Google Cloud Run to ensure zero-downtime scalability.
+- **Project "MapsApp":** Engineered a highly efficient route optimization web application, leveraging Docker containerization and continuous delivery pipelines via Google Cloud Run to ensure zero-downtime scalability.
 
-Bela Arte Digitization: Successfully spearheaded the massive physical-to-digital migration and data extraction project of historical graduation records, introducing flawless automation to optimize legacy operations.
+- **Bela Arte Digitization:** Successfully spearheaded the massive physical-to-digital migration and data extraction project of historical graduation records, introducing flawless automation to optimize legacy operations.
 
 Tri-fluent in Spanish (Native), English, and Portuguese, I bridge the gap between complex engineering, strategic product execution, and multicultural collaboration. 
 
